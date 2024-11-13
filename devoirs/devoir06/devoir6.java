@@ -1,5 +1,6 @@
 public class devoir6 {
 
+    //la syntaxe de la méthode n'est pas vraiment correcte, je passerai voir avec vous
     public static int[] genereTableau(int min, int max, int taille) {
 
     final int TAILLE_TABLEAU = 20;
