@@ -7,6 +7,7 @@ public class devoir03 {
         
         int numeroJour = jour;
 
+        //RIF: belle utilisation du switch!
         switch (mois) {
             case 12: numeroJour += 30;
             case 11: numeroJour += 31;
