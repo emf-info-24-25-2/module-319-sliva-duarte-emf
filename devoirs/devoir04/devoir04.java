@@ -10,6 +10,7 @@ public class devoir04 {
         if (year < 0 || year > 9999) {
             System.out.println("L'année [" + year + "] est hors limites !");
             return;
+            //RIF: attention, la convention EMF est : 1 seul return par méthode
         }
 
         if (month < 1 || month > 12) {

@@ -64,3 +64,4 @@ public class devoir6 {
         System.out.println("Le nombre [" + VALEUR_RECHERCHEE + "] figure à la position [" + position + "] du tableau");
     }
 }
+
